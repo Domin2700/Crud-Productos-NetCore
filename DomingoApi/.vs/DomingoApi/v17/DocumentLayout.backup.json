@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\damia\\OneDrive\\Escritorio\\Prueba Tenno Bussines- Domigo Pineda\\DomingoApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F115154D-A599-48B1-B06E-0A19C740C6B0}|DomingoApi\\DomingoApi.csproj|c:\\users\\damia\\onedrive\\escritorio\\prueba tenno bussines- domigo pineda\\domingoapi\\domingoapi\\controllers\\almacencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F115154D-A599-48B1-B06E-0A19C740C6B0}|DomingoApi\\DomingoApi.csproj|solutionrelative:domingoapi\\controllers\\almacencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F115154D-A599-48B1-B06E-0A19C740C6B0}|DomingoApi\\DomingoApi.csproj|c:\\users\\damia\\onedrive\\escritorio\\prueba tenno bussines- domigo pineda\\domingoapi\\domingoapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F115154D-A599-48B1-B06E-0A19C740C6B0}|DomingoApi\\DomingoApi.csproj|solutionrelative:domingoapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F115154D-A599-48B1-B06E-0A19C740C6B0}|DomingoApi\\DomingoApi.csproj|c:\\users\\damia\\onedrive\\escritorio\\prueba tenno bussines- domigo pineda\\domingoapi\\domingoapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F115154D-A599-48B1-B06E-0A19C740C6B0}|DomingoApi\\DomingoApi.csproj|solutionrelative:domingoapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlmacenController.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\OneDrive\\Escritorio\\Prueba Tenno Bussines- Domigo Pineda\\DomingoApi\\DomingoApi\\Controllers\\AlmacenController.cs",
+              "RelativeDocumentMoniker": "DomingoApi\\Controllers\\AlmacenController.cs",
+              "ToolTip": "C:\\Users\\damia\\OneDrive\\Escritorio\\Prueba Tenno Bussines- Domigo Pineda\\DomingoApi\\DomingoApi\\Controllers\\AlmacenController.cs",
+              "RelativeToolTip": "DomingoApi\\Controllers\\AlmacenController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:30:03.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\damia\\OneDrive\\Escritorio\\Prueba Tenno Bussines- Domigo Pineda\\DomingoApi\\DomingoApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DomingoApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\damia\\OneDrive\\Escritorio\\Prueba Tenno Bussines- Domigo Pineda\\DomingoApi\\DomingoApi\\appsettings.Development.json",
+              "RelativeToolTip": "DomingoApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T19:28:09.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\damia\\OneDrive\\Escritorio\\Prueba Tenno Bussines- Domigo Pineda\\DomingoApi\\DomingoApi\\Program.cs",
               "RelativeDocumentMoniker": "DomingoApi\\Program.cs",
@@ -39,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\damia\\OneDrive\\Escritorio\\Prueba Tenno Bussines- Domigo Pineda\\DomingoApi\\DomingoApi\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DomingoApi\\Context\\ApplicationDbContext.cs",
@@ -52,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\damia\\OneDrive\\Escritorio\\Prueba Tenno Bussines- Domigo Pineda\\DomingoApi\\DomingoApi\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "DomingoApi\\Models\\Producto.cs",

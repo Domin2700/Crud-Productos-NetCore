@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DomingoApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4ad9406f19a81ac503ebfb9b7dcb829355aefd6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+528985017adf421843a7440cf949cb8283663ced")]
 [assembly: System.Reflection.AssemblyProductAttribute("DomingoApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DomingoApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
