@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2zlzWKmVsYlB4IPcx4byJUpL46iqa1eZeZh+s6GdM70=",
+  "Source": "DomingoApi",
+  "BasePath": "_content/DomingoApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
