@@ -1,0 +1,6 @@
+@DomingoApi_HostAddress = http://localhost:5063
+
+GET {{DomingoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
