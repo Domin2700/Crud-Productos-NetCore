@@ -1,4 +1,4 @@
-using DomingoApi.Context;
+﻿using DomingoApi.Context;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -17,7 +17,26 @@ builder.Services.AddDbContext<ApplicationDbContext>(option =>
 
 });
 
+
+//Configuracion de Cors 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: "MyCorsPolicy", configurePolicy: policyBuilder => {
+        policyBuilder.WithOrigins("http://localhost:4200");
+        policyBuilder.AllowAnyMethod();
+        policyBuilder.AllowAnyHeader();
+        policyBuilder.AllowCredentials();
+    }); 
+});
+
 var app = builder.Build();
+app.UseHttpsRedirection();
+
+app.UseStaticFiles(); // 🔴 here it is
+app.UseRouting(); // 🔴 here it is
+
+app.UseCors("MyCorsPolicy");
+app.UseAuthorization();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
